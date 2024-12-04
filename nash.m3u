@@ -111,9 +111,6 @@ https://pflixzeem.vercel.app/play?id=zee-zeesalaam
 #EXTINF:-1 tvg-id=""929" tvg-name="Zee 24 Kalak" tvg-type="News" group-title=" News" tvg-language="Gujarati" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_24_Kalak.png",Zee 24 Kalak
 https://pflixzeem.vercel.app/play?id=zee-zee24kalak
 
-#EXTINF:-1 tvg-id=""1146" tvg-name="Sony Marathi SD" tvg-type="Entertainment" group-title=" Entertainment" tvg-language="Marathi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png" catchup-days="7" catchup="auto" catchup-source="https://jio.jiotv.link/api/3.php?live=true&in=catchup/ts_catchup_1146_${catchup-id}_${start}_${stop}&key=JITENDRAUNATTI&e=.m3u8",Sony Marathi SD
-https://pflixsonylivem.vercel.app/play?id=marathi
-
 #EXTINF:-1 tvg-id=""1319" tvg-name="Zee Cafe HD" tvg-type="Entertainment" group-title=" Entertainment" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cafe_HD.png",Zee Cafe HD
 https://pflixzeem.vercel.app/play?id=zee-zeecafehd
 
@@ -173,6 +170,8 @@ https://pflixzeem.vercel.app/play?id=zee-bigganga
 
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="Sony Liv",SONY SAB HD
 https://live.drmlive-02.workers.dev/sliv/sab.m3u8
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Sony Liv",SONY HD
+https://live.drmlive-02.workers.dev/sliv/sony.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZqnmcXdx/Sony-KAL.png" group-title="Sony Liv",SONY KAL
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="Sony Liv",SONY PAL
