@@ -3,11 +3,11 @@
 
 $id = isset($_GET['id']) ? $_GET['id'] : '';
 
-$url_for_domain = "http://opplex.tv:8080/live/45882233/989898/{$id}.m3u8";
+$url_for_domain = "https://starshare.live:443/live/rvdgdf7647564/bvchgfd235454/{$id}.m3u8";
 
 $headers_for_domain = [
     "User-Agent: OTT Navigator/1.6.7.4 (Linux;Android 11) ExoPlayerLib/2.15.1",
-    "Host: opplex.tv:8080",
+    "Host: starshare.live:443",
     "Connection: Keep-Alive",
     "Accept-Encoding: gzip"
 ];
@@ -43,11 +43,11 @@ if ($status_code_for_domain == 302 && preg_match('/Location: (.+?)\n/', $respons
 }
 
 
-$url_for_m3u8 = "http://opplex.tv:8080/live/45882233/989898/{$id}.m3u8";
+$url_for_m3u8 = "https://starshare.live:443/live/rvdgdf7647564/bvchgfd235454/{$id}.m3u8";
 
 $headers_for_m3u8 = [
     "User-Agent: OTT Navigator/1.6.7.4 (Linux;Android 11) ExoPlayerLib/2.15.1",
-    "Host: opplex.tv:8080",
+    "Host: starshare.live:443",
     "Connection: Keep-Alive",
     "Accept-Encoding: gzip"
 ];
