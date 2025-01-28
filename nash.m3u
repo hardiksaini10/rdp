@@ -455,3 +455,10 @@ https://live.drmlive-02.workers.dev/zee/9z5383489.m3u8
 #EXTINF:-1 tvg-id="0-9-9z5398761" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-9z5398761/channel_list/1170x658withlogodbb904df46d441628b3ab324cbde6745.png" group-title="Devotional", Aastha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://live.drmlive-02.workers.dev/zee/9z5398761.m3u8
+
+
+#EXTINF:-1 group-logo="https://i.ibb.co/WxSzQfV/Screenshot-2025-01-06-181955.png" tvg-id="12149" tvg-logo="" group-title="TATA-TV | CRICKET",STAR SPORTS 1 HINDI 4K
+https://allinonereborn.com/tata-tv.php?id=12149
+
+#EXTINF:-1 group-logo="https://i.ibb.co/WxSzQfV/Screenshot-2025-01-06-181955.png" tvg-id="12149" tvg-logo="" group-title="TATA-TV | CRICKET",STAR SPORTS 1 HINDI HD
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=starhindi
