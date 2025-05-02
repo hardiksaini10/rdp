@@ -155,9 +155,9 @@ https://dai.google.com/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
 
 #EXTINF:-1 tvg-id="ts658" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png" group-title="Sony Liv 3",SONY MARATHI
 https://dai.google.com/ssai/event/-_w3Jbq3QoW-mFCM2YIzxA/master.m3u8
-
 #EXTINF:-1 tvg-id="ts34" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_aath.png" group-title="Sony Liv 3",SONY AATH 
 https://dai.google.com/ssai/event/pSVzGmMpQR6jdmwwJg87OQ/master.m3u8
+
 #EXTINF:-1 tvg-id="0-9-aajtak" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-aajtak/channel_list/1170x658withlogo019c8cb0af414e68a6008efc72c6a72f.png" group-title="News", Aaj Tak
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://live.drmlive-02.workers.dev/zee/aajtak.m3u8
@@ -366,44 +366,3 @@ https://live.drmlive-02.workers.dev/zee/9z5383489.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://live.drmlive-02.workers.dev/zee/9z5398761.m3u8
 
-
-#EXTINF:-1 tvg-id="" tvg-name="Gullak (Hindi) S01 E01" tvg-logo="http://starshare.live:8080/images/ae5de8754930041269e937fb09e7bf25.jpg" group-title="SONY LIV",Gullak (Hindi) S01 E01
-https://starshare.org:443/series/Khushal/Khushal/159200.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Gullak (Hindi) S01 E02" tvg-logo="http://starshare.live:8080/images/ae5de8754930041269e937fb09e7bf25.jpg" group-title="SONY LIV",Gullak (Hindi) S01 E01
-https://this-is.ohnooo.site/3e26c2692659fc15bb7269f0dd61d8f1/drivebot.sbs/Gullak%20S01E02%20Hindi%201080p%20WEB-DL%20ESub%20[BollYFlix].mp4
-#EXTINF:-1 tvg-id="" tvg-name="Gullak (Hindi) S01 E03" tvg-logo="http://starshare.live:8080/images/ae5de8754930041269e937fb09e7bf25.jpg" group-title="SONY LIV",Gullak (Hindi) S01 E01
-https://this-is.ohnooo.site/2b7e0c537f274fd23a3d880875f03e67/drivebot.sbs/Gullak%20S01E03%20Hindi%201080p%20WEB-DL%20ESub%20[BollYFlix].mp4
-#EXTINF:-1 tvg-id="" tvg-name="Gullak (Hindi) S01 E04" tvg-logo="http://starshare.live:8080/images/ae5de8754930041269e937fb09e7bf25.jpg" group-title="SONY LIV",Gullak (Hindi) S01 E01
-https://this-is.ohnooo.site/3aff2c74bf063414d00a740983be649f/drivebot.sbs/Gullak%20S01E04%20Hindi%201080p%20WEB-DL%20ESub%20[BollYFlix].mp4
-#EXTINF:-1 tvg-id="" tvg-name="Gullak (Hindi) S01 E05" tvg-logo="http://starshare.live:8080/images/ae5de8754930041269e937fb09e7bf25.jpg" group-title="SONY LIV",Gullak (Hindi) S01 E01
-https://this-is.ohnooo.site/0093bd2c4ea746dabd85524cf7da4dd9/drivebot.sbs/Gullak%20S01E05%20Hindi%201080p%20WEB-DL%20ESub%20[BollYFlix].mp4
-#EXTINF:-1 tvg-id="" tvg-name="Gullak (Hindi) S02 E01" tvg-logo="http://starshare.live:8080/images/45c0e2dc94501ec66ce10f1fa3a87756.jpg" group-title="SONY LIV",Gullak (Hindi) S02 E01
-https://starshare.org:443/series/Khushal/Khushal/23230.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Gullak (Hindi) S02 E02" tvg-logo="http://starshare.live:8080/images/2a93f34a5672c853d72c96ec220187f0.jpg" group-title="SONY LIV",Gullak (Hindi) S02 E02
-https://starshare.org:443/series/Khushal/Khushal/23231.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Gullak (Hindi) S02 E03" tvg-logo="http://starshare.live:8080/images/68e357f0d99e6713ee42086d55ae6845.jpg" group-title="SONY LIV",Gullak (Hindi) S02 E03
-https://starshare.org:443/series/Khushal/Khushal/23232.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Gullak (Hindi) S02 E04" tvg-logo="http://starshare.live:8080/images/bb2315e85288fa9c637bcedcce55a64f.jpg" group-title="SONY LIV",Gullak (Hindi) S02 E04
-https://starshare.org:443/series/Khushal/Khushal/23233.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Gullak (Hindi) S02 E05" tvg-logo="http://starshare.live:8080/images/2912b90387c1aae75d51696731b86841.jpg" group-title="SONY LIV",Gullak (Hindi) S02 E05
-https://starshare.org:443/series/Khushal/Khushal/23234.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Gullak (Hindi) S03 E01" tvg-logo="http://starshare.live:8080/images/fa48eb3e13568ef36e5bf3c860dea9b8.jpg" group-title="SONY LIV",Gullak (Hindi) S03 E01
-https://starshare.org:443/series/Khushal/Khushal/80677.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Gullak (Hindi) S03 E02" tvg-logo="http://starshare.live:8080/images/2da8ace079da30604f1206150cc25f8e.jpg" group-title="SONY LIV",Gullak (Hindi) S03 E02
-https://starshare.org:443/series/Khushal/Khushal/80678.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Gullak (Hindi) S03 E03" tvg-logo="http://starshare.live:8080/images/b0832e7982ee45f1d76b297557cc2100.jpg" group-title="SONY LIV",Gullak (Hindi) S03 E03
-https://starshare.org:443/series/Khushal/Khushal/80679.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Gullak (Hindi) S03 E04" tvg-logo="http://starshare.live:8080/images/01ee60fcdc706c2edefd4bfca3291252.jpg" group-title="SONY LIV",Gullak (Hindi) S03 E04
-https://starshare.org:443/series/Khushal/Khushal/80680.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Gullak (Hindi) S03 E05" tvg-logo="http://starshare.live:8080/images/f6eca084d659da3d2a1cb896ea569064.jpg" group-title="SONY LIV",Gullak (Hindi) S03 E05
-https://starshare.org:443/series/Khushal/Khushal/80681.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Gullak (Hindi) S04 E01" tvg-logo="http://starshare.live:8080/images/367f07ad4bf4f88a85235b940e7e0293.jpg" group-title="SONY LIV",Gullak (Hindi) S04 E01
-https://starshare.org:443/series/Khushal/Khushal/346497.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Gullak (Hindi) S04 E02" tvg-logo="http://starshare.live:8080/images/652e24f3c72d54d63f269fa76f539c92.jpg" group-title="SONY LIV",Gullak (Hindi) S04 E02
-https://starshare.org:443/series/Khushal/Khushal/346498.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Gullak (Hindi) S04 E03" tvg-logo="http://starshare.live:8080/images/ba58c1fd97911768acbe41a2b8c26862.jpg" group-title="SONY LIV",Gullak (Hindi) S04 E03
-https://starshare.org:443/series/Khushal/Khushal/346499.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Gullak (Hindi) S04 E04" tvg-logo="http://starshare.live:8080/images/2787a7401c63bfe5f14176b19113895b.jpg" group-title="SONY LIV",Gullak (Hindi) S04 E04
-https://starshare.org:443/series/Khushal/Khushal/346500.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Gullak (Hindi) S04 E05" tvg-logo="http://starshare.live:8080/images/2cd05dce8597edb828376c7c747e0e9c.jpg" group-title="SONY LIV",Gullak (Hindi) S04 E05
-https://starshare.org:443/series/Khushal/Khushal/346501.mp4
