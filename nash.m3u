@@ -147,3 +147,69 @@ https://live.dinesh29.com.np/stream/jiotvplus/starplushd/master.m3u8
 https://live.dinesh29.com.np/stream/jiotvplus/starutsavmovies/master.m3u8
 #EXTINF:-1 tvg-id="starmaa" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/starmaa.png" group-title="Star",Star Maa
 https://live.dinesh29.com.np/stream/jiotvplus/starmaa/master.m3u8
+
+
+#EXTINF:-1 tvg-id="aajtak" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/aajtak.png" group-title="News",Aaj Tak
+https://live.dinesh29.com.np/stream/jiotvplus/aajtak/master.m3u8
+#EXTINF:-1 tvg-id="abpnewsindia" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/abpnewsindia.png" group-title="News",ABP News India
+https://live.dinesh29.com.np/stream/jiotvplus/abpnewsindia/master.m3u8
+#EXTINF:-1 tvg-id="cnn" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/cnn.png" group-title="News",CNN
+https://live.dinesh29.com.np/stream/jiotvplus/cnn/master.m3u8
+#EXTINF:-1 tvg-id="ddnews" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/ddnews.png" group-title="News",DD News
+https://live.dinesh29.com.np/stream/jiotvplus/ddnews/master.m3u8
+#EXTINF:-1 tvg-id="news18india" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/news18india.png" group-title="News",News 18 India
+https://live.dinesh29.com.np/stream/jiotvplus/news18india/master.m3u8
+#EXTINF:-1 tvg-id="news18lokmat" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/news18lokmat.png" group-title="News",News18 Lokmat
+https://live.dinesh29.com.np/stream/jiotvplus/news18lokmat/master.m3u8
+#EXTINF:-1 tvg-id="indiatv" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/indiatv.png" group-title="News",India TV
+https://live.dinesh29.com.np/stream/jiotvplus/indiatv/master.m3u8
+#EXTINF:-1 tvg-id="ndtv24x7" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/ndtv24x7.png" group-title="News",NDTV 24x7
+https://live.dinesh29.com.np/stream/jiotvplus/ndtv24x7/master.m3u8
+#EXTINF:-1 tvg-id="ndtvindia" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/ndtvindia.png" group-title="News",NDTV India
+https://live.dinesh29.com.np/stream/jiotvplus/ndtvindia/master.m3u8
+#EXTINF:-1 tvg-id="zee24taas" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/zee24taas.png" group-title="News",Zee 24 Taas
+https://live.dinesh29.com.np/stream/jiotvplus/zee24taas/master.m3u8
+#EXTINF:-1 tvg-id="mirrornow" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/mirrornow.png" group-title="News",Mirror Now
+https://live.dinesh29.com.np/stream/jiotvplus/mirrornow/master.m3u8
+#EXTINF:-1 tvg-id="cnnnews18" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/cnnnews18.png" group-title="News",CNN NEWS 18
+https://live.dinesh29.com.np/stream/jiotvplus/cnnnews18/master.m3u8
+#EXTINF:-1 tvg-id="indiatoday" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/indiatoday.png" group-title="News",India Today
+https://live.dinesh29.com.np/stream/jiotvplus/indiatoday/master.m3u8
+#EXTINF:-1 tvg-id="aljazeera" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/aljazeera.png" group-title="News",AL Jazeera
+https://live.dinesh29.com.np/stream/jiotvplus/aljazeera/master.m3u8
+#EXTINF:-1 tvg-id="newsx" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/newsx.png" group-title="News",News X
+https://live.dinesh29.com.np/stream/jiotvplus/newsx/master.m3u8
+#EXTINF:-1 tvg-id="dw" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/dw.png" group-title="News",dw
+https://live.dinesh29.com.np/stream/jiotvplus/dw/master.m3u8
+#EXTINF:-1 tvg-id="indianews" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/indianews.png" group-title="News",India news
+https://live.dinesh29.com.np/stream/jiotvplus/indianews/master.m3u8
+#EXTINF:-1 tvg-id="newsnation" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/newsnation.png" group-title="News",News Nation
+https://live.dinesh29.com.np/stream/jiotvplus/newsnation/master.m3u8
+#EXTINF:-1 tvg-id="news24" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/news24.png" group-title="News",News 24
+https://live.dinesh29.com.np/stream/jiotvplus/news24/master.m3u8
+#EXTINF:-1 tvg-id="goodnewstoday" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/goodnewstoday.png" group-title="News",Good News Today
+https://live.dinesh29.com.np/stream/jiotvplus/goodnewstoday/master.m3u8
+#EXTINF:-1 tvg-id="ibc24" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/ibc24.png" group-title="News",IBC24
+https://live.dinesh29.com.np/stream/jiotvplus/ibc24/master.m3u8
+#EXTINF:-1 tvg-id="zeenews" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/zeenews.png" group-title="News",Zee News
+https://live.dinesh29.com.np/stream/jiotvplus/zeenews/master.m3u8
+#EXTINF:-1 tvg-id="vipnews" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/vipnews.png" group-title="News",VIP News
+https://live.dinesh29.com.np/stream/jiotvplus/vipnews/master.m3u8
+#EXTINF:-1 tvg-id="mhonenews" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/mhonenews.png" group-title="News",Mh One News
+https://live.dinesh29.com.np/stream/jiotvplus/mhonenews/master.m3u8
+#EXTINF:-1 tvg-id="indianewsup" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/indianewsup.png" group-title="News",India News UP
+https://live.dinesh29.com.np/stream/jiotvplus/indianewsup/master.m3u8
+#EXTINF:-1 tvg-id="indianewsrajasthan" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/indianewsrajasthan.png" group-title="News",India News Rajasthan
+https://live.dinesh29.com.np/stream/jiotvplus/indianewsrajasthan/master.m3u8
+#EXTINF:-1 tvg-id="indianewsmp" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/indianewsmp.png" group-title="News",India News MP
+https://live.dinesh29.com.np/stream/jiotvplus/indianewsmp/master.m3u8
+#EXTINF:-1 tvg-id="indianewsharyana" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/indianewsharyana.png" group-title="News",India News Haryana
+https://live.dinesh29.com.np/stream/jiotvplus/indianewsharyana/master.m3u8
+#EXTINF:-1 tvg-id="news18mp" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/news18mp.png" group-title="News",News18 MP
+https://live.dinesh29.com.np/stream/jiotvplus/news18mp/master.m3u8
+#EXTINF:-1 tvg-id="news18up" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/news18up.png" group-title="News",News18 UP
+https://live.dinesh29.com.np/stream/jiotvplus/news18up/master.m3u8
+#EXTINF:-1 tvg-id="news18rajasthan" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/news18rajasthan.png" group-title="News",News18 RAJASTHAN
+https://live.dinesh29.com.np/stream/jiotvplus/news18rajasthan/master.m3u8
+#EXTINF:-1 tvg-id="zeerajasthan" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/zeerajasthan.png" group-title="News",Zee Rajasthan
+https://live.dinesh29.com.np/stream/jiotvplus/zeerajasthan/master.m3u8
