@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Sony Liv",SONY HD
-https://livetv-cb7.pages.dev/Sonyliv?channel=SET%20HD&token=jrVeX&type=.m3u8
+https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1761762603~acl=/*~id=03867310325115292934216291959016~hmac=58313e366a05e3d31cde81334c4e207540008be6c16417f295917f1d971b0a77
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="Sony Liv",SONY SAB HD
-https://sonyliv.cricindia95.workers.dev/sony-sab-hd.m3u8
+https://dishmt.slivcdn.com/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1761762603~acl=/*~id=03867310325115292934216291959016~hmac=58313e366a05e3d31cde81334c4e207540008be6c16417f295917f1d971b0a77
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="Sony Liv",SONY PAL
 https://sonyliv.cricindia95.workers.dev/sony-pal.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png" group-title="Sony Liv",SONY WAH
