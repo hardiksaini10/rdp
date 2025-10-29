@@ -140,7 +140,7 @@ https://live.dinesh29.com.np/stream/jiotvplus/starmaa/master.m3u8
 
 
 #EXTINF:-1 tvg-id="aajtak" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/aajtak.png" group-title="News",Aaj Tak
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105503/AAJTAKHDNEWSELE/index-connected.m3u8?hdntl=exp=1761783605~acl=%2f*~data=hdntl~hmac=489f49a113f049fb8c99ff2a170db4e3023d7e3785bf1c47b354e32c2f7d52c6
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105504/AndTVHDELE/index-connected.m3u8?hdntl=exp=1761783605~acl=%2f*~data=hdntl~hmac=489f49a113f049fb8c99ff2a170db4e3023d7e3785bf1c47b354e32c2f7d52c6
 #EXTINF:-1 tvg-id="abpnewsindia" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/abpnewsindia.png" group-title="News",ABP News India
 https://mini.allinonereborn.fun/ze/live.php?id=https://z5ak-cmaflive.zee5.com/cmaf/live/2105539/ZeecafeHDELE/index-connected.m3u8?hdntl=exp=1761783605~acl=%2f*~data=hdntl~hmac=489f49a113f049fb8c99ff2a170db4e3023d7e3785bf1c47b354e32c2f7d52c6&token=JITENDRA_KUMAR&e.m3u8=
 #EXTINF:-1 tvg-id="cnn" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/cnn.png" group-title="News",CNN
