@@ -204,9 +204,23 @@ https://live.dinesh29.com.np/stream/jiotvplus/news18rajasthan/master.m3u8
 #EXTINF:-1 tvg-id="zeerajasthan" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/zeerajasthan.png" group-title="News",Zee Rajasthan
 https://live.dinesh29.com.np/stream/jiotvplus/zeerajasthan/master.m3u8
 
-#EXTINF:-1 tvg-id="1108" group-title="Jiostar" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_HD1_Hindi.png",Star Sports 1 Hindi HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=400131994b445d8c8817202248760fda:2d56cb6f07a75b9aff165d534ae2bfc4
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1765677610~exp=1765764010~acl=/*~hmac=592b72850c5a54562819b77a62ff7991f8be2c65c06e5e7eddfad46cbd7c38f5"}
-http://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/output/index.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://mix.drmlive.net/mix/eng_key.php?id=hboastro
+#EXTINF:-1 tvg-id=ts1281 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="ENG Movies",HBO
+#EXTVLCOPT:http-user-agent=third-party
+https://mix.drmlive.net/mix/enghboastro.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://mix.drmlive.net/mix/eng_key.php?id=hbofamilyastro
+#EXTINF:-1 tvg-id=ts1280 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuyyg_DOKWkpsdhMHlQRNF0gWjbg85w80oGQ&s" group-title="ENG Movies",HBO Family
+#EXTVLCOPT:http-user-agent=third-party
+https://mix.drmlive.net/mix/enghbofamilyastro.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://mix.drmlive.net/mix/eng_key.php?id=hbohits
+#EXTINF:-1 tvg-id=ts1279 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="ENG Movies",HBO Hits
+#EXTVLCOPT:http-user-agent=third-party
+https://mix.drmlive.net/mix/enghbohits.mpd
