@@ -224,3 +224,9 @@ https://mix.drmlive.net/mix/enghbofamilyastro.mpd
 #EXTINF:-1 tvg-id=ts1279 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="ENG Movies",HBO Hits
 #EXTVLCOPT:http-user-agent=third-party
 https://mix.drmlive.net/mix/enghbohits.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://mix.drmlive.net/mix/allowipmpd_key.php?id=chlajabsdk
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3Yf3PHX/DRMLIVE-Aggressive-Logo.png" group-title="1-Playlist-Activation",Activate Playlist
+https://mix.drmlive.net/mix/actchaljabsdk.mpd?token=YWJTTzZKeWI2amJwZ3FJY0hHb1RNM1RPRU16THFrL28rYzAxSjlpQzlQLy9pTVJ2Z1ROcjd3TC9TUVgveFlabDRGb09iSEx1L25YdGZMK203cmk5TXdtdzJGOWwvYnU1RzdVZGNoTHQ3Tkt6Ynhyb2NScXNPU2MwZGVUWnVyaHQ0c2VkM0c0bmU5d0xuUzU5L01ndEtRPT0=
